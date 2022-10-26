@@ -36,3 +36,9 @@ Alternatively, you can use the following direct links to each lesson:
 ## References
 
 - [Python docs](https://docs.python.org/3/)
+
+## TODO
+
+- Dates
+- Files I/O
+- HTTP
