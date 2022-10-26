@@ -24,7 +24,13 @@ VSCode has built-in support to run Jupyter Notebook files, including inspectiing
 
 ### Option 3: use an online Jupyter Notebook service
 
-You can use [Google Colab](https://colab.research.google.com) to open notebooks directly from this Github repo.
+You can use [Google Colab](https://colab.research.google.com) to open notebooks directly from this Github repo. Just use the Open menu and use this repo's URL (<https://github.com/Yann-J/python-learning>) to load any file from it.
+
+Alternatively, you can use the following direct links to each lesson:
+
+- [Lesson 1 - Variables and Types](https://colab.research.google.com/github/Yann-J/python-learning/blob/main/Lesson%201%20-%20Variables%20and%20Types.ipynb)
+- [Lesson 2 - Flow Control](https://colab.research.google.com/github/Yann-J/python-learning/blob/main/Lesson%202%20-%20Flow%20Control.ipynb)
+- [Lesson 3 - Functions](https://colab.research.google.com/github/Yann-J/python-learning/blob/main/Lesson%203%20-%20Functions.ipynb)
 
 ## References
 
