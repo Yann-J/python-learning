@@ -31,6 +31,7 @@ Alternatively, you can use the following direct links to each lesson:
 - [Lesson 1 - Variables and Types](https://colab.research.google.com/github/Yann-J/python-learning/blob/main/Lesson%201%20-%20Variables%20and%20Types.ipynb)
 - [Lesson 2 - Flow Control](https://colab.research.google.com/github/Yann-J/python-learning/blob/main/Lesson%202%20-%20Flow%20Control.ipynb)
 - [Lesson 3 - Functions](https://colab.research.google.com/github/Yann-J/python-learning/blob/main/Lesson%203%20-%20Functions.ipynb)
+- [Lesson 4 - Regular Expressions](https://colab.research.google.com/github/Yann-J/python-learning/blob/main/Lesson%204%20-%20Regular%20Expressions.ipynb)
 
 ## References
 
