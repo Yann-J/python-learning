@@ -32,6 +32,7 @@ Alternatively, you can use the following direct links to each lesson:
 - [Lesson 2 - Flow Control](https://colab.research.google.com/github/Yann-J/python-learning/blob/main/Lesson%202%20-%20Flow%20Control.ipynb)
 - [Lesson 3 - Functions](https://colab.research.google.com/github/Yann-J/python-learning/blob/main/Lesson%203%20-%20Functions.ipynb)
 - [Lesson 4 - Regular Expressions](https://colab.research.google.com/github/Yann-J/python-learning/blob/main/Lesson%204%20-%20Regular%20Expressions.ipynb)
+- [Lesson 5 - Dates](https://colab.research.google.com/github/Yann-J/python-learning/blob/main/Lesson%205%20-%20Dates.ipynb)
 
 ## References
 
