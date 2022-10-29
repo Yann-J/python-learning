@@ -40,6 +40,5 @@ Alternatively, you can use the following direct links to each lesson:
 
 ## TODO
 
-- Dates
 - Files I/O
 - HTTP
